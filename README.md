@@ -9,3 +9,9 @@ Learning DevOps from the ground up.
 - Learn CI/CD
 - Learn Kubernetes
 - Build a production-ready portfolio project
+
+## Sprint Progress
+
+- ✅ Git repository initialized
+- ✅ First commit completed
+- 🚀 Working on feature branches
