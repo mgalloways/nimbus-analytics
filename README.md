@@ -1,4 +1,4 @@
-# Nimbus Analytics
+# Nimbus Analytics Platform
 
 Learning DevOps from the ground up.
 
