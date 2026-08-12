@@ -15,3 +15,7 @@ Learning DevOps from the ground up.
 - ✅ Git repository initialized
 - ✅ First commit completed
 - 🚀 Working on feature branches
+- Git fundamentals completed
+- Branching and merging completed
+- Merge conflict resolution completed
+- GitHub repository connected
