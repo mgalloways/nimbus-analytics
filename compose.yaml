@@ -2,3 +2,5 @@ services:
   app:
     build: .
     container_name: nimbus-analytics
+    ports:
+      - "8000:8000"
