@@ -23,3 +23,6 @@ jobs:
 
       - name: Run automated tests
         run: python -m pytest
+
+      - name: Build Docker image
+        run: docker build -t nimbus-analytics:ci .
