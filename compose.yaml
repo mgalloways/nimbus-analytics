@@ -1,6 +1,6 @@
 services:
   app:
-    build: .
+    image: ghcr.io/mgalloways/nimbus-analytics:latest
     container_name: nimbus-analytics
     ports:
       - "8000:8000"
